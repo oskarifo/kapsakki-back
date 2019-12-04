@@ -1,0 +1,17 @@
+{"properties": [
+  {
+    "name": "auth0.issuer",
+    "type": "java.lang.String",
+    "description": "A description for 'auth0.issuer'"
+  },
+  {
+    "name": "auth0.audience",
+    "type": "java.lang.String",
+    "description": "A description for 'auth0.audience'"
+  },
+  {
+    "name": "auth0.algorithm",
+    "type": "java.lang.String",
+    "description": "A description for 'auth0.algorithm'"
+  }
+]}
